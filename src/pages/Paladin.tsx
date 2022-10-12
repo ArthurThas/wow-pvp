@@ -51,7 +51,7 @@ const Paladin = () => {
                   </Typography>
                   <Typography variant="subtitle1">
                     <Box>DR: Stun 6s</Box>
-                    <Box>1min CD, has CDR on Fist of Justice talent</Box>
+                    <Box>1min CD, around 30s using Fist of Justice talent</Box>
                     <Box>Dispellable: magic type</Box>
                     <p>
                       Use
